@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../The Next Dimension Studio"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"notebook.cellFocusIndicator": "border",
+		"notebook.consolidatedRunButton": true,
+		"notebook.diff.overviewRuler": true,
+		"notebook.insertFinalNewline": true
+	}
+}
